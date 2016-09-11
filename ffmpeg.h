@@ -12,6 +12,7 @@
 #include <libavformat/avformat.h>
 #include <libavutil/imgutils.h>
 #include <libavutil/mathematics.h>
+#include <libavutil/version.h>
 
 #if (LIBAVFORMAT_VERSION_MAJOR >= 56)
 
